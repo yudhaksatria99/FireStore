@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "477668425059",
+    "firebase_url": "https://firestore-87b76.firebaseio.com",
+    "project_id": "firestore-87b76",
+    "storage_bucket": "firestore-87b76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477668425059:android:5abc5cfff042aac2",
+        "android_client_info": {
+          "package_name": "com.yudha.firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477668425059-vjqtb2goa77dva532aejdo4la4unqlo5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yudha.firestore",
+            "certificate_hash": "15717acb9e17d9c33774dda27793232f7889fdf6"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvUVn5fQwzQIthKy4TLCq-ntc5Ytw8ltQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477668425059-52h2sujr40vka4h2ut414i0adrp34qr3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
